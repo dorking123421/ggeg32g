@@ -15,7 +15,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "Say hello"
+          name: "Say ggg"
           command: "python3 hi.py"
 
 # Orchestrate jobs using workflows
